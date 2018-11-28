@@ -1,0 +1,6 @@
+C:\Games\VS 2013\A lot of Projects\1001 Zad Zadddd\1001 Zad Zadddd\bin\Debug\1001 Zad Zadddd.exe.config
+C:\Games\VS 2013\A lot of Projects\1001 Zad Zadddd\1001 Zad Zadddd\bin\Debug\1001 Zad Zadddd.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Zadddd\1001 Zad Zadddd\bin\Debug\1001 Zad Zadddd.pdb
+C:\Games\VS 2013\A lot of Projects\1001 Zad Zadddd\1001 Zad Zadddd\obj\Debug\1001 Zad Zadddd.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\1001 Zad Zadddd\1001 Zad Zadddd\obj\Debug\1001 Zad Zadddd.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Zadddd\1001 Zad Zadddd\obj\Debug\1001 Zad Zadddd.pdb
